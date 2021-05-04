@@ -1,0 +1,7 @@
+Case study: no union, blending, joining, dual axis, LOD expressions(include, exclude, starswith,
+
+for 4 marks questions: give exaplme
+
+explain the steps for LOD
+
+
